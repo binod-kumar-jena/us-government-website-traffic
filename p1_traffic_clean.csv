@@ -1,0 +1,21 @@
+channel,source_medium,visits,visit_share_pct,channel_type,is_untracked
+Direct,(direct) / (none),979305577,56.3,Direct,False
+Organic Search,google / organic,542037554,31.16,Organic,False
+Organic Search,bing / organic,50202528,2.89,Organic,False
+Email,expected / email,25505197,1.47,Email,False
+Unassigned,(not set),25386908,1.46,Other/Untracked,True
+Email,outfordelivery / email,17305317,0.99,Email,False
+Referral,secure.ssa.gov / referral,14492588,0.83,Referral,False
+Referral,chatgpt.com / referral,12665451,0.73,Referral,False
+Organic Search,google / search,12119451,0.7,Organic,False
+Organic Shopping,shop_app / (not set),9534853,0.55,Organic,False
+Organic Search,yahoo / organic,8118540,0.47,Organic,False
+Organic Shopping,ebay.com / referral,6848063,0.39,Organic,False
+Referral,secure.login.gov / referral,6038127,0.35,Referral,False
+Unassigned,chatgpt.com / (not set),5228516,0.3,Other/Untracked,True
+Organic Search,duckduckgo / organic,5117181,0.29,Organic,False
+Organic Search,cn.bing.com / referral,4601345,0.26,Organic,False
+Referral,login.usajobs.gov / referral,4172957,0.24,Referral,False
+Email,govdelivery / email,3733868,0.21,Email,False
+Referral,api.va.gov / referral,3666279,0.21,Referral,False
+Referral,statics.teams.cdn.office.net / referral,3271667,0.19,Referral,False

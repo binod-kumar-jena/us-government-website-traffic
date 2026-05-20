@@ -1,0 +1,9 @@
+Check_ID,Check,Issues,Status
+QA-001,Missing channel names,0,PASS
+QA-002,Missing visit counts,0,PASS
+QA-003,Untracked/unassigned traffic rows,2,FAIL
+QA-004,(not set) in source/medium,3,FAIL
+QA-005,Duplicate rows — traffic file,0,PASS
+QA-006,Missing page paths — pages file,0,PASS
+QA-007,Missing active user counts,0,PASS
+QA-008,Missing page titles — pages file,1,FAIL

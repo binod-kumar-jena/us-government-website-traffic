@@ -1,0 +1,21 @@
+channel,visits,visit_share_pct,channel_type,is_untracked
+Direct,979305577,56.3,Direct,False
+Organic Search,542037554,31.16,Organic,False
+Organic Search,50202528,2.89,Organic,False
+Email,25505197,1.47,Email,False
+Unassigned,25386908,1.46,Other/Untracked,True
+Email,17305317,0.99,Email,False
+Referral,14492588,0.83,Referral,False
+Referral,12665451,0.73,Referral,False
+Organic Search,12119451,0.7,Organic,False
+Organic Shopping,9534853,0.55,Organic,False
+Organic Search,8118540,0.47,Organic,False
+Organic Shopping,6848063,0.39,Organic,False
+Referral,6038127,0.35,Referral,False
+Unassigned,5228516,0.3,Other/Untracked,True
+Organic Search,5117181,0.29,Organic,False
+Organic Search,4601345,0.26,Organic,False
+Referral,4172957,0.24,Referral,False
+Email,3733868,0.21,Email,False
+Referral,3666279,0.21,Referral,False
+Referral,3271667,0.19,Referral,False
